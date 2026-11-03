@@ -1,17 +1,17 @@
-# <Código> · <Toma de desiciones del consul Romano>
+# <Código> · Toma de decisiones del consul Romano
 
 > **Hackatón IIA · UADE · 3.4.257.** Este README es la plantilla del grupo. En su fork, reemplacen todo lo que está entre `< >` y borren esta nota. Las bases están en `BASES.md` y su ficha en `problematicas/`.
 
-**Integrantes:** <Santino Garbino y Agustin Quesada>
-**IA declarada:** <Santino Garbino y Agustin Quesada>
-**Pista:** <Neurona / Reglas / Agente>
+**Integrantes:** Santino Garbino y Agustin Quesada
+**IA declarada:** Chat GPT
+**Pista:** Reglas
 **Publicación en LinkedIn:** <link>
 
 ---
 
 ## 1. Formulación y PEAS
 
-**La pregunta.** <Para cada caso, ¿…? SÍ significa: …>
+**La pregunta.**  ¿Conviene aceptar la batalla campal que ofrece Aníbal? Para cada caso, ¿Si o No? SÍ significa: acepta el cónsul la batalla y la gana
 
 | PEAS | Su sistema |
 |---|---|
