@@ -1,9 +1,9 @@
-# <Código> · <Título de su problemática>
+# <Código> · <Toma de desiciones del consul Romano>
 
 > **Hackatón IIA · UADE · 3.4.257.** Este README es la plantilla del grupo. En su fork, reemplacen todo lo que está entre `< >` y borren esta nota. Las bases están en `BASES.md` y su ficha en `problematicas/`.
 
-**Integrantes:** <nombre y apellido> · <nombre y apellido>
-**IA declarada:** <la del grupo desde la Clase 1>
+**Integrantes:** <Santino Garbino y Agustin Quesada>
+**IA declarada:** <Santino Garbino y Agustin Quesada>
 **Pista:** <Neurona / Reglas / Agente>
 **Publicación en LinkedIn:** <link>
 
