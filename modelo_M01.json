@@ -1,0 +1,40 @@
+{
+  "umbrales": {
+    "relacion": 1.42,
+    "caballeria": 15.0,
+    "terreno": 6.5
+  },
+  "minimo_senales": 2,
+  "margen_minimo_entrenamiento": 0.05,
+  "metricas_entrenamiento": {
+    "VP": 6,
+    "FN": 0,
+    "FP": 0,
+    "VN": 8,
+    "N": 14,
+    "exactitud": 1.0,
+    "precision": 1.0,
+    "sensibilidad": 1.0,
+    "especificidad": 1.0,
+    "costo_total": 0,
+    "costo_medio": 0.0
+  },
+  "candidatos_evaluados": 1144,
+  "costo_fp": 5,
+  "costo_fn": 1,
+  "rangos_entrenamiento": {
+    "relacion": [
+      0.62,
+      1.92
+    ],
+    "caballeria": [
+      9.0,
+      35.0
+    ],
+    "terreno": [
+      0.0,
+      10.0
+    ]
+  },
+  "seleccion": "Costo, FP, margen mínimo, centralidad, orden lexicográfico; solo casos 1–14."
+}

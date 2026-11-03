@@ -1,0 +1,6 @@
+Verificación real en Chromium headless mediante Playwright.
+- Motor JavaScript coincide con Python en los 20 casos oficiales.
+- Ejemplo A: SÍ. Ejemplo B: NO.
+- Se admite coma decimal.
+- Texto inválido no se transforma en NO.
+- Sin errores JavaScript durante las pruebas.

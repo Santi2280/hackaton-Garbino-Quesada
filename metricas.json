@@ -1,0 +1,115 @@
+{
+  "entrenamiento": {
+    "sistema": {
+      "VP": 6,
+      "FN": 0,
+      "FP": 0,
+      "VN": 8,
+      "N": 14,
+      "exactitud": 1.0,
+      "precision": 1.0,
+      "sensibilidad": 1.0,
+      "especificidad": 1.0,
+      "costo_total": 0,
+      "costo_medio": 0.0
+    },
+    "siempre_no": {
+      "VP": 0,
+      "FN": 6,
+      "FP": 0,
+      "VN": 8,
+      "N": 14,
+      "exactitud": 0.5714285714285714,
+      "precision": null,
+      "sensibilidad": 0.0,
+      "especificidad": 1.0,
+      "costo_total": 6,
+      "costo_medio": 0.42857142857142855
+    },
+    "siempre_si": {
+      "VP": 6,
+      "FN": 0,
+      "FP": 8,
+      "VN": 0,
+      "N": 14,
+      "exactitud": 0.42857142857142855,
+      "precision": 0.42857142857142855,
+      "sensibilidad": 1.0,
+      "especificidad": 0.0,
+      "costo_total": 40,
+      "costo_medio": 2.857142857142857
+    },
+    "variante_una_senal": {
+      "VP": 6,
+      "FN": 0,
+      "FP": 5,
+      "VN": 3,
+      "N": 14,
+      "exactitud": 0.6428571428571429,
+      "precision": 0.5454545454545454,
+      "sensibilidad": 1.0,
+      "especificidad": 0.375,
+      "costo_total": 25,
+      "costo_medio": 1.7857142857142858
+    },
+    "errores": []
+  },
+  "prueba": {
+    "sistema": {
+      "VP": 1,
+      "FN": 2,
+      "FP": 0,
+      "VN": 3,
+      "N": 6,
+      "exactitud": 0.6666666666666666,
+      "precision": 1.0,
+      "sensibilidad": 0.3333333333333333,
+      "especificidad": 1.0,
+      "costo_total": 2,
+      "costo_medio": 0.3333333333333333
+    },
+    "siempre_no": {
+      "VP": 0,
+      "FN": 3,
+      "FP": 0,
+      "VN": 3,
+      "N": 6,
+      "exactitud": 0.5,
+      "precision": null,
+      "sensibilidad": 0.0,
+      "especificidad": 1.0,
+      "costo_total": 3,
+      "costo_medio": 0.5
+    },
+    "siempre_si": {
+      "VP": 3,
+      "FN": 0,
+      "FP": 3,
+      "VN": 0,
+      "N": 6,
+      "exactitud": 0.5,
+      "precision": 0.5,
+      "sensibilidad": 1.0,
+      "especificidad": 0.0,
+      "costo_total": 15,
+      "costo_medio": 2.5
+    },
+    "variante_una_senal": {
+      "VP": 3,
+      "FN": 0,
+      "FP": 2,
+      "VN": 1,
+      "N": 6,
+      "exactitud": 0.6666666666666666,
+      "precision": 0.6,
+      "sensibilidad": 1.0,
+      "especificidad": 0.3333333333333333,
+      "costo_total": 10,
+      "costo_medio": 1.6666666666666667
+    },
+    "errores": [
+      15,
+      20
+    ]
+  }
+}

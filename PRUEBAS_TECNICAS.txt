@@ -1,0 +1,20 @@
+test_advertencia_extrapolacion (test_M01.PruebasM01.test_advertencia_extrapolacion) ... ok
+test_coma_decimal (test_M01.PruebasM01.test_coma_decimal) ... ok
+test_corroboracion_reduce_falsos_positivos_entrenamiento (test_M01.PruebasM01.test_corroboracion_reduce_falsos_positivos_entrenamiento) ... ok
+test_denominadores_cero (test_M01.PruebasM01.test_denominadores_cero) ... ok
+test_entradas_invalidas (test_M01.PruebasM01.test_entradas_invalidas) ... ok
+test_etiquetas_prueba_no_eligen_umbrales (test_M01.PruebasM01.test_etiquetas_prueba_no_eligen_umbrales) ... ok
+test_limites_inclusivos (test_M01.PruebasM01.test_limites_inclusivos) ... ok
+test_matrices_cierran (test_M01.PruebasM01.test_matrices_cierran) ... ok
+test_modelo_y_metricas_guardadas (test_M01.PruebasM01.test_modelo_y_metricas_guardadas) ... ok
+test_orden_entrenamiento_no_cambia_ajuste (test_M01.PruebasM01.test_orden_entrenamiento_no_cambia_ajuste) ... ok
+test_prediccion_solo_tres_entradas (test_M01.PruebasM01.test_prediccion_solo_tres_entradas) ... ok
+test_rechaza_prueba_en_ajuste (test_M01.PruebasM01.test_rechaza_prueba_en_ajuste) ... ok
+test_todas_combinaciones_logicas (test_M01.PruebasM01.test_todas_combinaciones_logicas) ... ok
+test_todas_predicciones (test_M01.PruebasM01.test_todas_predicciones) ... ok
+test_umbrales_reproducibles (test_M01.PruebasM01.test_umbrales_reproducibles) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.090s
+
+OK

@@ -1,0 +1,4 @@
+sistema_M01.ipynb fue ejecutado de principio a fin con nbclient.
+Todas las celdas finalizaron sin excepción; resultados y ejemplo de inferencia están guardados en el cuaderno.
+Entorno de comprobación: Python 3.13; el código usa biblioteca estándar.
+No se afirma haber ejecutado una sesión en la cuenta Colab del grupo.

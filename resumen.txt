@@ -1,0 +1,24 @@
+
+ENTRENAMIENTO
+sistema: VP=6 FN=0 FP=0 VN=8; N=14
+  exactitud=100.00%; precision=100.00%; sensibilidad=100.00%; especificidad=100.00%
+  costo 5FP+FN=0; costo medio=0.000000
+siempre_no: VP=0 FN=6 FP=0 VN=8; N=14
+  exactitud=57.14%; precision=No definida (denominador cero); sensibilidad=0.00%; especificidad=100.00%
+  costo 5FP+FN=6; costo medio=0.428571
+siempre_si: VP=6 FN=0 FP=8 VN=0; N=14
+  exactitud=42.86%; precision=42.86%; sensibilidad=100.00%; especificidad=0.00%
+  costo 5FP+FN=40; costo medio=2.857143
+Casos mal clasificados: []
+
+PRUEBA
+sistema: VP=1 FN=2 FP=0 VN=3; N=6
+  exactitud=66.67%; precision=100.00%; sensibilidad=33.33%; especificidad=100.00%
+  costo 5FP+FN=2; costo medio=0.333333
+siempre_no: VP=0 FN=3 FP=0 VN=3; N=6
+  exactitud=50.00%; precision=No definida (denominador cero); sensibilidad=0.00%; especificidad=100.00%
+  costo 5FP+FN=3; costo medio=0.500000
+siempre_si: VP=3 FN=0 FP=3 VN=0; N=6
+  exactitud=50.00%; precision=50.00%; sensibilidad=100.00%; especificidad=0.00%
+  costo 5FP+FN=15; costo medio=2.500000
+Casos mal clasificados: [15, 20]

@@ -1,0 +1,7 @@
+{
+  "url": "https://github.com/dharioprodigio/hackaton-iia-uade-2026/blob/main/datos/M01.csv",
+  "git_blob_sha1": "32035148f71046d2ffca305ea8caef83def93eb1",
+  "sha256": "6fa1a3ccc1568a88d579e780f64e135617697788eafc76734decb07693ca76f4",
+  "casos": 20,
+  "nota": "Copia byte a byte verificada contra el SHA de GitHub; casos sintéticos de la cátedra, no batallas históricas."
+}
